@@ -1,0 +1,1 @@
+html top to bottom but not same in the case of css and javascript
